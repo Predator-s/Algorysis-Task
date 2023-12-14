@@ -4,7 +4,7 @@
 <h1>📝React.js Todo App</h1>
 </p>
 
-## [https://react-cool-todo-app.netlify.app/](https://main--serene-salamander-96fd90.netlify.app/)
+## [https://main--serene-salamander-96fd90.netlify.app/](https://main--serene-salamander-96fd90.netlify.app/)
 
 <p align="center">
 
